@@ -1,7 +1,6 @@
 # Create-Zip-Python
 
-This Python script create  the image by 
-
+Python script to create a zip file
 
 ## Table of Contents
 
@@ -41,7 +40,6 @@ The entire project follows the below folder structure:
 
 Follow me for more updates here:
 
-- [Article](https://www.sapnaedu.com)
 - [Twitter](https://twitter.com/sapnaedu)
 - [Website](https://www.sapnaedu.com)
 - [LinkedIn](https://www.linkedin.com/in/kiranchandrashekhar/)
